@@ -1,0 +1,7 @@
+Database/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+account_settings.json

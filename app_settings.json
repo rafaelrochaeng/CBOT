@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "delay_update_minutes": 120,
+  "delay_data_acquisition": 0.1
+}
